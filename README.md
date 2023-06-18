@@ -14,3 +14,4 @@ Hi! les muestro un proyecto de **React TailwindCss** ,es un demo aun pero si el 
   
 ![Pantallazo 18-06-2023 19 49 46](https://github.com/DubstepQBA/DisneyClone/assets/54748359/3fbb968b-a2d1-483f-b463-61b687b49ae2)
 ![Pantallazo 18-06-2023 19 50 20](https://github.com/DubstepQBA/DisneyClone/assets/54748359/84d2f435-f19c-45ff-aeba-8a3cd58f244d)
+![Skeleton](https://github.com/DubstepQBA/DisneyClone/assets/54748359/b4ade3da-77a1-4188-80be-ca18f6ca1c82)
