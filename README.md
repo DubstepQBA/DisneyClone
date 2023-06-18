@@ -2,6 +2,8 @@
 
 Hi! les muestro un proyecto de **React TailwindCss** ,es un demo aun pero si el tiempo me lo permite le añadires mas funcionalidades ,espero que les guste
 
+https://vercel.com/dubstepqba/disney-clone
+
 # Tecnologías empleadas
 
     "axios": "^1.4.0",
